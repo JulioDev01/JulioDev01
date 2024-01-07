@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=100&section=header&text=Olá!+Eu+sou+Julio+César&fontSize=40&fontColor=fff"/>
 
-- 😎 Futuro Desenvolvedor Front-End
+- 😎 Desenvolvedor Front-End
 - 🖥️ Tecnologias que estou aprimorando meu conhecimento: JavaScript | HTML | CSS
 - 💬 Se tiver interesse em trocar um papo comigo sobre essa área, não hesite em me chamar.
 - 📫 Você pode me encontrar no [LinkedIn](www.linkedin.com/in/juliomaciel01)
