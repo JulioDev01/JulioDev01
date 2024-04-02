@@ -2,7 +2,7 @@
 
 - 😎 Desenvolvedor Front-End
 - 📝 Atualmente estou cursando o ensino superior de técnologo em Análise e Desenvolvimento de Sistemas na faculdade FIAP (Faculdade de Informática e Administração Paulista).
-- 🖥️ Tecnologias que estou aprimorando meu conhecimento: JavaScript | HTML | CSS
+- 🖥️ Tecnologias que estou aprimorando meu conhecimento: JavaScript | HTML | CSS | Java | Python 
 - 💬 Se tiver interesse em trocar um papo comigo sobre essa área, não hesite em me chamar.
 - 📫 Você pode me encontrar no [LinkedIn](www.linkedin.com/in/juliomaciel01)
 
