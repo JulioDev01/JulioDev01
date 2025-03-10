@@ -2,7 +2,7 @@
 
 - 🤖 Desenvolvedor FullStack
 - 📝 Atualmente estou cursando o ensino superior de técnologo em Análise e Desenvolvimento de Sistemas na faculdade FIAP (Faculdade de Informática e Administração Paulista).
-- 🖥️ Tecnologias que estou aprimorando meu conhecimento: React | JavaScript | HTML | CSS | Java | Python | SQL
+- 🖥️ Tecnologias que estou aprimorando meu conhecimento: React | Vue | Typescript | JavaScript | HTML | CSS | Tailwind | Node.js | Java | Python | SQL
 - 💬 Se tiver interesse em trocar um papo comigo sobre essa área, não hesite em me chamar.
 - 📫 Você pode me encontrar no [LinkedIn](www.linkedin.com/in/juliomaciel01)
 
